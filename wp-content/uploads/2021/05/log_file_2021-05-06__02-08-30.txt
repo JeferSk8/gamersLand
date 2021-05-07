@@ -1,0 +1,72 @@
+
+---Downloaded files---
+The import files for: Big Store Electro were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/gameStore
+Data file = /Applications/MAMP/htdocs/gameStore/wp-content/uploads/2021/05/demo-content-import-file_2021-05-06__02-08-30.xml
+Widget file = /Applications/MAMP/htdocs/gameStore/wp-content/uploads/2021/05/demo-widgets-import-file_2021-05-06__02-08-30.json
+Customizer file = /Applications/MAMP/htdocs/gameStore/wp-content/uploads/2021/05/demo-customizer-import-file_2021-05-06__02-08-30.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Imagen - No Title - Imported
+Productos - Popular - Imported
+Nube de etiquetas - Tag Clouds - Imported
+
+Footer Below Second Widget : 
+
+Imagen - No Title - Imported
+
+Footer Widget Area 1 : 
+
+Texto - Connect With Us - Imported
+Texto - Useful Links - Imported
+
+Footer Widget Area 2 : 
+
+Texto - More About Store - Imported
+Menú de navegación - End Points - Imported
+
+Footer Widget Area 3 : 
+
+Productos - Products - Imported
+
+Footer Widget Area 4 : 
+
+HTML personalizado - Contact Details - Imported
+Texto - Offline Stores - Imported
+
+WooCommerce Sidebar : 
+
+Filtrar productos por precio - Filter by Price - Imported
+Categorías de producto - Product categories - Imported
+Productos - Products - Imported
+Filtrar productos por puntuación - Average Rating - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
